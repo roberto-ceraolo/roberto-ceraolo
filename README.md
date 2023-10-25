@@ -22,7 +22,7 @@ Re-implementation of the whole codebase of Pix2Seq-D, a diffusion-based model to
 
 [**Training an AI Assistant for STEM Education**](https://robertoceraolo.com/uploads/report_AI_assistant.pdf)
 
-Development of an AI assistant specifically suited for STEM students. This included data gathering and preparation, training of a reward model (Deberta), fine-tuning of a large language model (Distilled GPT-2). Used the Antrophic-style Constitutional AI approach in order to bias the model towards clarity, correctness, completeness, and rigour answers.
+Development of an AI assistant specifically suited for STEM students. This included data gathering and preparation, training of a reward model (Deberta), fine-tuning of a large language model (Distilled GPT-2). Used the Antrophic-style Constitutional AI approach in order to bias the model towards providing clear, correct, complete, and rigourous answers.
 
 
 [**OpenRitardi**](https://www.openritardi.it)
