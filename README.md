@@ -7,15 +7,11 @@ I am captivated by human ingenuity and the idea of empowering it with technology
 I am a Data Science student at EPFL in the beautiful Lausanne, Switzerland ⛰️
 
 ### Present
-Currently, I am working on simulated environments and generative agents with LLMs. I am at ETH in Zurich, working with Zhijing Jin. Ideally, I would like to build a framework to run scientific experiments using simulations. [Here](https://robertoceraolo.com/post/simulacra/) you can find some of my thoughts on this topic. 
+Currently, I am at ETH in Zurich, working with Zhijing Jin and Mrinmaya Sachan on the intersection of Causal Inference and AI agents. 
 
-On occasion, I help startups, either on technical aspects, or on strategic decisions. Two of them, that I really care about, are [TextYess](https://www.textyess.com) (AI shopping assistant) and [PachinoRisparmio](https://pachinorisparmio.com) (Smart financial advisory).
+[Here](https://robertoceraolo.com/post/simulacra/) you can find some of my thoughts on the future of AI agents. 
 
-Some projects I am trying to make time for, over my weekends:
-- creating an open source community to build an European platform for Open Data on trains ([**OpenRitardi**](https://www.openritardi.it))
-- creating a "steerable" text-2-CAD engine ([text2CAD](https://github.com/roberto-ceraolo/text-2-cad))
-
-
+On occasion, I help startups, either on technical aspects, or on strategic decisions.
 
 ### Future
 I am looking for a full time position starting August or September 2024. If you’re searching the best hyper-technical AI researcher, that’s not gonna be me. 
@@ -28,6 +24,10 @@ then I might be your guy.
 
 
 ## Some projects I've worked on recently:
+
+I built [Sentence Pair Finder](https://github.com/roberto-ceraolo/semantic-diverse-search), a system to find pairs of sentences which are similar in meaning but diverse in words in large corpora.
+
+I worked on [CausalQuest, a dataset of Natural Causal Quesitons](https://github.com/roberto-ceraolo/causal-quest) (Paper under review)
 
 🔭 I worked on building a vector search retrieval system and generative models for Gamma Ray Logs (Earth subsurface measurements) at Schlumberger-Doll Research, Cambridge, MA. (Patent pending approval)
 
