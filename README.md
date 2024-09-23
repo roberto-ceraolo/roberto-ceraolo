@@ -14,10 +14,10 @@ Currently, I am at ETH in Zurich, working with Zhijing Jin and Mrinmaya Sachan o
 On occasion, I help startups, either on technical aspects, or on strategic decisions.
 
 ### Future
-I am looking for a full time position starting August or September 2024. If you’re searching the best hyper-technical AI researcher, that’s not gonna be me. 
+I am looking for a full time position starting December 2024 or January 2025.
 
 If you’re looking for someone that 
-- has technical expertise in AI but is not a hardcore researcher,
+- has technical expertise in AI but also cares about the business side,
 - is able to prioritize and put things in a customer-centric perspective,
 - loves the 0 to 1 of building a product, 
 then I might be your guy.
